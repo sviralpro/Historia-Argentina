@@ -113,7 +113,7 @@
         }
 
         .answer-space::before {
-            content: '✍️ Escribe tu respuesta aquí...';
+            content: '';
             color: #b2bec3;
             font-style: italic;
             position: absolute;
@@ -251,14 +251,14 @@
 
     <script>
         const questions = [
-            "¿Cuáles eran las causas de la crisis del sistema colonial español en el Río de la Plata durante el período colonial?",
-            "¿Cómo se inició el proceso de independencia de las colonias americanas, qué acontecimientos determinaron su llegada? ¿Qué fue lo que motivó a los Integralistas?",
-            "¿Qué objetivo tenía cada uno de los congresos argentinos que se realizaron en Buenos Aires entre 1810 y 1860?",
-            "¿Qué influencia y personalidad tuvo José de San Martín en el proceso de independencia de las colonias de Argentina? ¿Qué tipo de liderazgo ejerció?",
-            "¿Qué sucedió el 17 de junio de 1821? ¿Dónde se desarrolló la batalla de Güemes? ¿En qué contexto se desarrolló?",
-            "¿Quién terminó a Güemes? ¿Por qué se pondría?",
-            "¿Qué provincias defendió el Norte y Salta?",
-            "¿Cuál fue la vestimenta que lo caracterizaba? ¿A qué clase social pertenecía?"
+            " ¿QUIÉN FUE MARTIN M. GÜEMES?",
+            "¿COMO SE IlAMA EL GRUPO DE COMBATIENTES QUE ACOMPAÑÓ A Güznes? ¿POR QUÉ ESE NOMBRE? ",
+            "¿QUÉ SIGNIFICA SER CANDILLO?",
+            "¿QUÉ VALORES /ENSEÑANZA NOS D DEJA LA VIDA DE MARTIN GUENIER?",
+            ", ¿QUE SUCEDIDEL 17 DE JUNIO DE 17 DE JUNIO DE 1827? ",
+            "QUIEN TRAiCINO RONDEAU A QUERET? ¿POR QUE?",
+            "¿QUÉ PROVINCIAS DEFOUDiO.?",
+            "¿CUAL FUE LA VESTIMENTIA QUE COCARACTETUZABA? A QUE CLASE SOCIAL PERTENECÍA?"
         ];
 
         let currentQuestionIndex = 0;
